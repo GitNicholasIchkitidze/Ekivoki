@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/06/09 23:52:59.000.832,=C:\Users\MyNika\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/06/10 11:09:40.000.217,=C:\Users\MyNika\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/06/10 12:28:31.000.596,=C:\Users\MyNika\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/06/11 12:39:01.000.600,=C:\Users\MyNika\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2014/06/11 13:37:48.000.753,C:\ekivokiproject3\mainForm.dfm=C:\Users\MyNika\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2014/06/11 13:37:48.000.752,C:\ekivokiproject3\mainForm.pas=C:\Users\MyNika\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2014/06/11 13:37:55.000.371,C:\ekivokiproject3\ekivoki3.dproj=C:\Users\MyNika\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2014/06/11 13:38:36.000.517,=C:\ekivokiproject3\Unit1.pas</Transaction>
+    <Transaction>2014/06/11 13:39:21.000.290,C:\ekivokiproject3\Tablo1Form.dfm=C:\ekivokiproject3\Unit1.dfm</Transaction>
+    <Transaction>2014/06/11 13:39:21.000.290,C:\ekivokiproject3\Tablo1Form.pas=C:\ekivokiproject3\Unit1.pas</Transaction>
+    <Transaction>2014/06/11 14:32:40.000.370,=C:\ekivokiproject3\Unit1.pas</Transaction>
+    <Transaction>2014/06/11 14:32:55.000.339,C:\ekivokiproject3\player1form.dfm=C:\ekivokiproject3\Unit1.dfm</Transaction>
+    <Transaction>2014/06/11 14:32:55.000.339,C:\ekivokiproject3\player1form.pas=C:\ekivokiproject3\Unit1.pas</Transaction>
+    <Transaction>2014/06/11 16:11:30.000.214,=C:\ekivokiproject3\Unit1.pas</Transaction>
+    <Transaction>2014/06/11 16:12:17.000.194,C:\ekivokiproject3\Tablo2Form.pas=C:\ekivokiproject3\Unit1.pas</Transaction>
+    <Transaction>2014/06/11 16:12:17.000.194,C:\ekivokiproject3\Tablo2Form.dfm=C:\ekivokiproject3\Unit1.dfm</Transaction>
+    <Transaction>2014/06/11 16:13:19.000.697,=C:\ekivokiproject3\Unit1.pas</Transaction>
+    <Transaction>2014/06/11 16:13:50.000.813,C:\ekivokiproject3\player2form.dfm=C:\ekivokiproject3\Unit1.dfm</Transaction>
+    <Transaction>2014/06/11 16:13:50.000.813,C:\ekivokiproject3\player2form.pas=C:\ekivokiproject3\Unit1.pas</Transaction>
+    <Transaction>2014/06/12 02:59:46.000.326,=C:\ekivokiproject3\Unit1.pas</Transaction>
+    <Transaction>2014/06/12 03:00:09.000.007,C:\ekivokiproject3\testunit.pas=C:\ekivokiproject3\Unit1.pas</Transaction>
+    <Transaction>2014/06/12 03:00:09.000.007,C:\ekivokiproject3\testunit.dfm=C:\ekivokiproject3\Unit1.dfm</Transaction>
+    <Transaction>2014/06/20 13:16:52.000.937,=C:\EkivokiProject5\TabloForma1.pas</Transaction>
+    <Transaction>2014/06/20 13:17:26.000.758,C:\EkivokiProject5\TabloForma1.pas=</Transaction>
+    <Transaction>2014/06/21 17:23:18.000.775,=C:\ekivokiproject3\Unit1.pas</Transaction>
+    <Transaction>2014/06/21 17:23:52.000.184,C:\ekivokiproject3\Unit1.pas=C:\ekivokiproject3\seurunit.pas</Transaction>
+    <Transaction>2014/06/21 19:10:33.000.537,=C:\ekivokiproject3\Unit1.pas</Transaction>
+    <Transaction>2014/06/21 19:11:35.000.710,C:\ekivokiproject3\SplashForm.dfm=C:\ekivokiproject3\Unit1.dfm</Transaction>
+    <Transaction>2014/06/21 19:11:35.000.710,C:\ekivokiproject3\SplashForm.pas=C:\ekivokiproject3\Unit1.pas</Transaction>
+    <Transaction>2014/06/21 19:17:47.000.998,C:\ekivokiproject3\SplashForm.pas=</Transaction>
+    <Transaction>2014/06/21 19:39:12.000.050,C:\ekivokiproject3\testunit.pas=</Transaction>
+    <Transaction>2014/06/21 19:39:24.000.039,=C:\ekivokiproject3\SplashForm.pas</Transaction>
+    <Transaction>2014/06/23 04:34:30.324,C:\ekivokiproject3\seurunit.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
